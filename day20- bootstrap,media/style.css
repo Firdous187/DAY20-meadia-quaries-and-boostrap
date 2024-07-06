@@ -1,0 +1,28 @@
+.mainDiv{
+    width:300px;
+    height: 200px;
+    border: 50%;
+}
+.main{
+    width:90px;
+    height: 60px;
+    display: inline-block; 
+    border-radius: 50%;
+}
+.imgDiv{
+    position: relative;
+    bottom:100px;
+    left:160px;
+}
+.ISL{
+    width: 150px;
+    height: 200px;
+}
+.startingDiv
+{
+    background-color: blue;
+}
+.imagesallDiv{
+ position: relative;
+ bottom:60px;
+}
